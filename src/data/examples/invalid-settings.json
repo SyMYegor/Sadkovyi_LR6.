@@ -1,0 +1,7 @@
+{
+  "ApiSettings": {
+    "DatabaseName": "abc",
+    "MaxBulkSize": 200,
+    "SimulateDatabaseFailure": false
+  }
+}

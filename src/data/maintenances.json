@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "title": "Заміна моторної оливи",
+    "deviceId": 1,
+    "workTypeId": 1,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-15",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 2,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 2,
+    "workTypeId": 2,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-16",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 3,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 3,
+    "workTypeId": 3,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-17",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 4,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 4,
+    "workTypeId": 4,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-18",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 5,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 5,
+    "workTypeId": 5,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-19",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 6,
+    "title": "Змащування вузлів",
+    "deviceId": 6,
+    "workTypeId": 6,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-20",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 7,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 7,
+    "workTypeId": 7,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-21",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 8,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 8,
+    "workTypeId": 8,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-22",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 9,
+    "title": "Заміна моторної оливи",
+    "deviceId": 9,
+    "workTypeId": 1,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-23",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 10,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 10,
+    "workTypeId": 2,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-24",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 11,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 11,
+    "workTypeId": 3,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-25",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 12,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 12,
+    "workTypeId": 4,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-26",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 13,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 13,
+    "workTypeId": 5,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-27",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 14,
+    "title": "Змащування вузлів",
+    "deviceId": 14,
+    "workTypeId": 6,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-28",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 15,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 15,
+    "workTypeId": 7,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-29",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 16,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 16,
+    "workTypeId": 8,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-30",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 17,
+    "title": "Заміна моторної оливи",
+    "deviceId": 17,
+    "workTypeId": 1,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-31",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 18,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 18,
+    "workTypeId": 2,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-01",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 19,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 19,
+    "workTypeId": 3,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-02",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 20,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 20,
+    "workTypeId": 4,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-03",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 21,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 21,
+    "workTypeId": 5,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-04",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 22,
+    "title": "Змащування вузлів",
+    "deviceId": 22,
+    "workTypeId": 6,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-05",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 23,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 23,
+    "workTypeId": 7,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-06",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 24,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 24,
+    "workTypeId": 8,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-07",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 25,
+    "title": "Заміна моторної оливи",
+    "deviceId": 25,
+    "workTypeId": 1,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-08",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 26,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 26,
+    "workTypeId": 2,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-09",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 27,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 27,
+    "workTypeId": 3,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-10",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 28,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 28,
+    "workTypeId": 4,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-11",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 29,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 29,
+    "workTypeId": 5,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-12",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 30,
+    "title": "Змащування вузлів",
+    "deviceId": 30,
+    "workTypeId": 6,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-13",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 31,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 31,
+    "workTypeId": 7,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-14",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 32,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 32,
+    "workTypeId": 8,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-15",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 33,
+    "title": "Заміна моторної оливи",
+    "deviceId": 33,
+    "workTypeId": 1,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-16",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 34,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 34,
+    "workTypeId": 2,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-17",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 35,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 35,
+    "workTypeId": 3,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-18",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 36,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 36,
+    "workTypeId": 4,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-19",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 37,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 37,
+    "workTypeId": 5,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-20",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 38,
+    "title": "Змащування вузлів",
+    "deviceId": 38,
+    "workTypeId": 6,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-21",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 39,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 39,
+    "workTypeId": 7,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-22",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 40,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 40,
+    "workTypeId": 8,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-23",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 41,
+    "title": "Заміна моторної оливи",
+    "deviceId": 41,
+    "workTypeId": 1,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-24",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 42,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 42,
+    "workTypeId": 2,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-25",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 43,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 43,
+    "workTypeId": 3,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-26",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 44,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 44,
+    "workTypeId": 4,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-27",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 45,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 45,
+    "workTypeId": 5,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-28",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 46,
+    "title": "Змащування вузлів",
+    "deviceId": 46,
+    "workTypeId": 6,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-15",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 47,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 47,
+    "workTypeId": 7,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-16",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 48,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 48,
+    "workTypeId": 8,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-17",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 49,
+    "title": "Заміна моторної оливи",
+    "deviceId": 49,
+    "workTypeId": 1,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-18",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 50,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 50,
+    "workTypeId": 2,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-19",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 51,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 51,
+    "workTypeId": 3,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-20",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 52,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 52,
+    "workTypeId": 4,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-21",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 53,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 53,
+    "workTypeId": 5,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-22",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 54,
+    "title": "Змащування вузлів",
+    "deviceId": 54,
+    "workTypeId": 6,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-23",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 55,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 55,
+    "workTypeId": 7,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-24",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 56,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 56,
+    "workTypeId": 8,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-25",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 57,
+    "title": "Заміна моторної оливи",
+    "deviceId": 57,
+    "workTypeId": 1,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-26",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 58,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 58,
+    "workTypeId": 2,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-27",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 59,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 59,
+    "workTypeId": 3,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-28",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 60,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 60,
+    "workTypeId": 4,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-29",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 61,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 61,
+    "workTypeId": 5,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-30",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 62,
+    "title": "Змащування вузлів",
+    "deviceId": 62,
+    "workTypeId": 6,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-31",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 63,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 63,
+    "workTypeId": 7,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-01",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 64,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 64,
+    "workTypeId": 8,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-02",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 65,
+    "title": "Заміна моторної оливи",
+    "deviceId": 65,
+    "workTypeId": 1,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-03",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 66,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 66,
+    "workTypeId": 2,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-04",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 67,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 67,
+    "workTypeId": 3,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-05",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 68,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 68,
+    "workTypeId": 4,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-06",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 69,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 69,
+    "workTypeId": 5,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-07",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 70,
+    "title": "Змащування вузлів",
+    "deviceId": 70,
+    "workTypeId": 6,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-08",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 71,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 71,
+    "workTypeId": 7,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-09",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 72,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 72,
+    "workTypeId": 8,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-10",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 73,
+    "title": "Заміна моторної оливи",
+    "deviceId": 73,
+    "workTypeId": 1,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-11",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 74,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 74,
+    "workTypeId": 2,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-12",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 75,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 75,
+    "workTypeId": 3,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-13",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 76,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 76,
+    "workTypeId": 4,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-14",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 77,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 77,
+    "workTypeId": 5,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-15",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 78,
+    "title": "Змащування вузлів",
+    "deviceId": 78,
+    "workTypeId": 6,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-16",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 79,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 79,
+    "workTypeId": 7,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-17",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 80,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 80,
+    "workTypeId": 8,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-18",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 81,
+    "title": "Заміна моторної оливи",
+    "deviceId": 81,
+    "workTypeId": 1,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-19",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 82,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 82,
+    "workTypeId": 2,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-20",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 83,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 83,
+    "workTypeId": 3,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-21",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 84,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 84,
+    "workTypeId": 4,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-22",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 85,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 85,
+    "workTypeId": 5,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-23",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 86,
+    "title": "Змащування вузлів",
+    "deviceId": 86,
+    "workTypeId": 6,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-24",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 87,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 87,
+    "workTypeId": 7,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-25",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 88,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 88,
+    "workTypeId": 8,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-11-26",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 89,
+    "title": "Заміна моторної оливи",
+    "deviceId": 89,
+    "workTypeId": 1,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-11-27",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 90,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 90,
+    "workTypeId": 2,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-11-28",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 91,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 91,
+    "workTypeId": 3,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-15",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 92,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 92,
+    "workTypeId": 4,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-16",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 93,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 93,
+    "workTypeId": 5,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-17",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 94,
+    "title": "Змащування вузлів",
+    "deviceId": 94,
+    "workTypeId": 6,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-18",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 95,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 95,
+    "workTypeId": 7,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-19",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 96,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 96,
+    "workTypeId": 8,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-20",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 97,
+    "title": "Заміна моторної оливи",
+    "deviceId": 97,
+    "workTypeId": 1,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-21",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 98,
+    "title": "Заміна паливних фільтрів",
+    "deviceId": 98,
+    "workTypeId": 2,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-22",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 99,
+    "title": "Перевірка гідравлічної системи",
+    "deviceId": 99,
+    "workTypeId": 3,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-23",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 100,
+    "title": "Обслуговування гальмівної системи",
+    "deviceId": 100,
+    "workTypeId": 4,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-24",
+    "priority": 5,
+    "status": "Planned"
+  },
+  {
+    "id": 101,
+    "title": "Перевірка повітряного фільтра",
+    "deviceId": 101,
+    "workTypeId": 5,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-25",
+    "priority": 1,
+    "status": "Planned"
+  },
+  {
+    "id": 102,
+    "title": "Змащування вузлів",
+    "deviceId": 102,
+    "workTypeId": 6,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-26",
+    "priority": 2,
+    "status": "Planned"
+  },
+  {
+    "id": 103,
+    "title": "Діагностика електрообладнання",
+    "deviceId": 103,
+    "workTypeId": 7,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-27",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "id": 104,
+    "title": "Перевірка системи охолодження",
+    "deviceId": 104,
+    "workTypeId": 8,
+    "assignedTo": "Іван Мельник",
+    "plannedDate": "2026-10-28",
+    "priority": 4,
+    "status": "Planned"
+  },
+  {
+    "id": 105,
+    "title": "Заміна моторної оливи",
+    "deviceId": 105,
+    "workTypeId": 1,
+    "assignedTo": "Андрій Бондар",
+    "plannedDate": "2026-10-29",
+    "priority": 5,
+    "status": "Planned"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Заміна моторної оливи",
+    "intervalHours": 250,
+    "estimatedHours": 2
+  },
+  {
+    "id": 2,
+    "title": "Заміна паливних фільтрів",
+    "intervalHours": 500,
+    "estimatedHours": 1.5
+  },
+  {
+    "id": 3,
+    "title": "Перевірка гідравлічної системи",
+    "intervalHours": 250,
+    "estimatedHours": 2.5
+  },
+  {
+    "id": 4,
+    "title": "Обслуговування гальмівної системи",
+    "intervalHours": 500,
+    "estimatedHours": 3
+  },
+  {
+    "id": 5,
+    "title": "Перевірка повітряного фільтра",
+    "intervalHours": 100,
+    "estimatedHours": 1
+  },
+  {
+    "id": 6,
+    "title": "Змащування вузлів",
+    "intervalHours": 50,
+    "estimatedHours": 1.5
+  },
+  {
+    "id": 7,
+    "title": "Діагностика електрообладнання",
+    "intervalHours": 500,
+    "estimatedHours": 2
+  },
+  {
+    "id": 8,
+    "title": "Перевірка системи охолодження",
+    "intervalHours": 250,
+    "estimatedHours": 2
+  }
+]

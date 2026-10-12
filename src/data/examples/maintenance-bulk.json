@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Заміна оливи трактора бригади 1",
+    "deviceId": 2,
+    "workTypeId": 1,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-25",
+    "priority": 3,
+    "status": "Planned"
+  },
+  {
+    "title": "Перевірка гідравліки Case IH",
+    "deviceId": 3,
+    "workTypeId": 3,
+    "assignedTo": "Олег Коваль",
+    "plannedDate": "2026-10-25",
+    "priority": 3,
+    "status": "Planned"
+  }
+]

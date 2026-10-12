@@ -1,0 +1,9 @@
+{
+  "title": "Заміна моторної оливи трактора",
+  "deviceId": 1,
+  "workTypeId": 1,
+  "assignedTo": "Олег Коваль",
+  "plannedDate": "2026-10-25",
+  "priority": 6,
+  "status": "Planned"
+}

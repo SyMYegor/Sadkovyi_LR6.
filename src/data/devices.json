@@ -1,0 +1,947 @@
+[
+  {
+    "id": 1,
+    "title": "John Deere 6130M, бригада 1",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2018-03-01",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-001"
+  },
+  {
+    "id": 2,
+    "title": "John Deere 6155M, бригада 1",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2019-03-02",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-002"
+  },
+  {
+    "id": 3,
+    "title": "Case IH Puma 185, бригада 1",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2020-03-03",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-003"
+  },
+  {
+    "id": 4,
+    "title": "New Holland T7.210, бригада 1",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2021-03-04",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-004"
+  },
+  {
+    "id": 5,
+    "title": "Claas Arion 650, бригада 1",
+    "manufacturer": "Claas",
+    "commissionedOn": "2022-03-05",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-005"
+  },
+  {
+    "id": 6,
+    "title": "Massey Ferguson 6713, бригада 1",
+    "manufacturer": "Massey Ferguson",
+    "commissionedOn": "2023-03-06",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-006"
+  },
+  {
+    "id": 7,
+    "title": "Fendt 724 Vario, бригада 1",
+    "manufacturer": "Fendt",
+    "commissionedOn": "2024-03-07",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-007"
+  },
+  {
+    "id": 8,
+    "title": "Deutz-Fahr 7250, бригада 1",
+    "manufacturer": "Deutz-Fahr",
+    "commissionedOn": "2025-03-08",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-008"
+  },
+  {
+    "id": 9,
+    "title": "Valtra T174, бригада 1",
+    "manufacturer": "Valtra",
+    "commissionedOn": "2018-03-09",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-009"
+  },
+  {
+    "id": 10,
+    "title": "John Deere S770, бригада 1",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2019-03-10",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-010"
+  },
+  {
+    "id": 11,
+    "title": "Claas Lexion 670, бригада 1",
+    "manufacturer": "Claas",
+    "commissionedOn": "2020-03-11",
+    "conditionRating": 4,
+    "category": "Combine",
+    "inventoryNumber": "AG-011"
+  },
+  {
+    "id": 12,
+    "title": "Case IH Axial-Flow 7250, бригада 1",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2021-03-12",
+    "conditionRating": 5,
+    "category": "Combine",
+    "inventoryNumber": "AG-012"
+  },
+  {
+    "id": 13,
+    "title": "New Holland CX8.80, бригада 1",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2022-03-13",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-013"
+  },
+  {
+    "id": 14,
+    "title": "John Deere R4045, бригада 1",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2023-03-14",
+    "conditionRating": 4,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-014"
+  },
+  {
+    "id": 15,
+    "title": "Amazone Pantera 4503, бригада 1",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2024-03-15",
+    "conditionRating": 5,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-015"
+  },
+  {
+    "id": 16,
+    "title": "Horsch Leeb PT 280, бригада 1",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2025-03-16",
+    "conditionRating": 3,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-016"
+  },
+  {
+    "id": 17,
+    "title": "Horsch Pronto 6 DC, бригада 1",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2018-03-17",
+    "conditionRating": 4,
+    "category": "Seeder",
+    "inventoryNumber": "AG-017"
+  },
+  {
+    "id": 18,
+    "title": "Amazone Cirrus 6003, бригада 1",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2019-03-18",
+    "conditionRating": 5,
+    "category": "Seeder",
+    "inventoryNumber": "AG-018"
+  },
+  {
+    "id": 19,
+    "title": "Vaderstad Rapid A 600S, бригада 1",
+    "manufacturer": "Vaderstad",
+    "commissionedOn": "2020-03-19",
+    "conditionRating": 3,
+    "category": "Seeder",
+    "inventoryNumber": "AG-019"
+  },
+  {
+    "id": 20,
+    "title": "JCB 541-70, бригада 1",
+    "manufacturer": "JCB",
+    "commissionedOn": "2021-03-20",
+    "conditionRating": 4,
+    "category": "Loader",
+    "inventoryNumber": "AG-020"
+  },
+  {
+    "id": 21,
+    "title": "Manitou MLT 737, бригада 1",
+    "manufacturer": "Manitou",
+    "commissionedOn": "2022-03-21",
+    "conditionRating": 5,
+    "category": "Loader",
+    "inventoryNumber": "AG-021"
+  },
+  {
+    "id": 22,
+    "title": "John Deere 6130M, бригада 2",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2023-03-22",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-022"
+  },
+  {
+    "id": 23,
+    "title": "John Deere 6155M, бригада 2",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2024-03-23",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-023"
+  },
+  {
+    "id": 24,
+    "title": "Case IH Puma 185, бригада 2",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2025-03-24",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-024"
+  },
+  {
+    "id": 25,
+    "title": "New Holland T7.210, бригада 2",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2018-03-25",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-025"
+  },
+  {
+    "id": 26,
+    "title": "Claas Arion 650, бригада 2",
+    "manufacturer": "Claas",
+    "commissionedOn": "2019-03-26",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-026"
+  },
+  {
+    "id": 27,
+    "title": "Massey Ferguson 6713, бригада 2",
+    "manufacturer": "Massey Ferguson",
+    "commissionedOn": "2020-03-27",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-027"
+  },
+  {
+    "id": 28,
+    "title": "Fendt 724 Vario, бригада 2",
+    "manufacturer": "Fendt",
+    "commissionedOn": "2021-03-01",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-028"
+  },
+  {
+    "id": 29,
+    "title": "Deutz-Fahr 7250, бригада 2",
+    "manufacturer": "Deutz-Fahr",
+    "commissionedOn": "2022-03-02",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-029"
+  },
+  {
+    "id": 30,
+    "title": "Valtra T174, бригада 2",
+    "manufacturer": "Valtra",
+    "commissionedOn": "2023-03-03",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-030"
+  },
+  {
+    "id": 31,
+    "title": "John Deere S770, бригада 2",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2024-03-04",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-031"
+  },
+  {
+    "id": 32,
+    "title": "Claas Lexion 670, бригада 2",
+    "manufacturer": "Claas",
+    "commissionedOn": "2025-03-05",
+    "conditionRating": 4,
+    "category": "Combine",
+    "inventoryNumber": "AG-032"
+  },
+  {
+    "id": 33,
+    "title": "Case IH Axial-Flow 7250, бригада 2",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2018-03-06",
+    "conditionRating": 5,
+    "category": "Combine",
+    "inventoryNumber": "AG-033"
+  },
+  {
+    "id": 34,
+    "title": "New Holland CX8.80, бригада 2",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2019-03-07",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-034"
+  },
+  {
+    "id": 35,
+    "title": "John Deere R4045, бригада 2",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2020-03-08",
+    "conditionRating": 4,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-035"
+  },
+  {
+    "id": 36,
+    "title": "Amazone Pantera 4503, бригада 2",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2021-03-09",
+    "conditionRating": 5,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-036"
+  },
+  {
+    "id": 37,
+    "title": "Horsch Leeb PT 280, бригада 2",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2022-03-10",
+    "conditionRating": 3,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-037"
+  },
+  {
+    "id": 38,
+    "title": "Horsch Pronto 6 DC, бригада 2",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2023-03-11",
+    "conditionRating": 4,
+    "category": "Seeder",
+    "inventoryNumber": "AG-038"
+  },
+  {
+    "id": 39,
+    "title": "Amazone Cirrus 6003, бригада 2",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2024-03-12",
+    "conditionRating": 5,
+    "category": "Seeder",
+    "inventoryNumber": "AG-039"
+  },
+  {
+    "id": 40,
+    "title": "Vaderstad Rapid A 600S, бригада 2",
+    "manufacturer": "Vaderstad",
+    "commissionedOn": "2025-03-13",
+    "conditionRating": 3,
+    "category": "Seeder",
+    "inventoryNumber": "AG-040"
+  },
+  {
+    "id": 41,
+    "title": "JCB 541-70, бригада 2",
+    "manufacturer": "JCB",
+    "commissionedOn": "2018-03-14",
+    "conditionRating": 4,
+    "category": "Loader",
+    "inventoryNumber": "AG-041"
+  },
+  {
+    "id": 42,
+    "title": "Manitou MLT 737, бригада 2",
+    "manufacturer": "Manitou",
+    "commissionedOn": "2019-03-15",
+    "conditionRating": 5,
+    "category": "Loader",
+    "inventoryNumber": "AG-042"
+  },
+  {
+    "id": 43,
+    "title": "John Deere 6130M, бригада 3",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2020-03-16",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-043"
+  },
+  {
+    "id": 44,
+    "title": "John Deere 6155M, бригада 3",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2021-03-17",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-044"
+  },
+  {
+    "id": 45,
+    "title": "Case IH Puma 185, бригада 3",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2022-03-18",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-045"
+  },
+  {
+    "id": 46,
+    "title": "New Holland T7.210, бригада 3",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2023-03-19",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-046"
+  },
+  {
+    "id": 47,
+    "title": "Claas Arion 650, бригада 3",
+    "manufacturer": "Claas",
+    "commissionedOn": "2024-03-20",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-047"
+  },
+  {
+    "id": 48,
+    "title": "Massey Ferguson 6713, бригада 3",
+    "manufacturer": "Massey Ferguson",
+    "commissionedOn": "2025-03-21",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-048"
+  },
+  {
+    "id": 49,
+    "title": "Fendt 724 Vario, бригада 3",
+    "manufacturer": "Fendt",
+    "commissionedOn": "2018-03-22",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-049"
+  },
+  {
+    "id": 50,
+    "title": "Deutz-Fahr 7250, бригада 3",
+    "manufacturer": "Deutz-Fahr",
+    "commissionedOn": "2019-03-23",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-050"
+  },
+  {
+    "id": 51,
+    "title": "Valtra T174, бригада 3",
+    "manufacturer": "Valtra",
+    "commissionedOn": "2020-03-24",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-051"
+  },
+  {
+    "id": 52,
+    "title": "John Deere S770, бригада 3",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2021-03-25",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-052"
+  },
+  {
+    "id": 53,
+    "title": "Claas Lexion 670, бригада 3",
+    "manufacturer": "Claas",
+    "commissionedOn": "2022-03-26",
+    "conditionRating": 4,
+    "category": "Combine",
+    "inventoryNumber": "AG-053"
+  },
+  {
+    "id": 54,
+    "title": "Case IH Axial-Flow 7250, бригада 3",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2023-03-27",
+    "conditionRating": 5,
+    "category": "Combine",
+    "inventoryNumber": "AG-054"
+  },
+  {
+    "id": 55,
+    "title": "New Holland CX8.80, бригада 3",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2024-03-01",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-055"
+  },
+  {
+    "id": 56,
+    "title": "John Deere R4045, бригада 3",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2025-03-02",
+    "conditionRating": 4,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-056"
+  },
+  {
+    "id": 57,
+    "title": "Amazone Pantera 4503, бригада 3",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2018-03-03",
+    "conditionRating": 5,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-057"
+  },
+  {
+    "id": 58,
+    "title": "Horsch Leeb PT 280, бригада 3",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2019-03-04",
+    "conditionRating": 3,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-058"
+  },
+  {
+    "id": 59,
+    "title": "Horsch Pronto 6 DC, бригада 3",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2020-03-05",
+    "conditionRating": 4,
+    "category": "Seeder",
+    "inventoryNumber": "AG-059"
+  },
+  {
+    "id": 60,
+    "title": "Amazone Cirrus 6003, бригада 3",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2021-03-06",
+    "conditionRating": 5,
+    "category": "Seeder",
+    "inventoryNumber": "AG-060"
+  },
+  {
+    "id": 61,
+    "title": "Vaderstad Rapid A 600S, бригада 3",
+    "manufacturer": "Vaderstad",
+    "commissionedOn": "2022-03-07",
+    "conditionRating": 3,
+    "category": "Seeder",
+    "inventoryNumber": "AG-061"
+  },
+  {
+    "id": 62,
+    "title": "JCB 541-70, бригада 3",
+    "manufacturer": "JCB",
+    "commissionedOn": "2023-03-08",
+    "conditionRating": 4,
+    "category": "Loader",
+    "inventoryNumber": "AG-062"
+  },
+  {
+    "id": 63,
+    "title": "Manitou MLT 737, бригада 3",
+    "manufacturer": "Manitou",
+    "commissionedOn": "2024-03-09",
+    "conditionRating": 5,
+    "category": "Loader",
+    "inventoryNumber": "AG-063"
+  },
+  {
+    "id": 64,
+    "title": "John Deere 6130M, бригада 4",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2025-03-10",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-064"
+  },
+  {
+    "id": 65,
+    "title": "John Deere 6155M, бригада 4",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2018-03-11",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-065"
+  },
+  {
+    "id": 66,
+    "title": "Case IH Puma 185, бригада 4",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2019-03-12",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-066"
+  },
+  {
+    "id": 67,
+    "title": "New Holland T7.210, бригада 4",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2020-03-13",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-067"
+  },
+  {
+    "id": 68,
+    "title": "Claas Arion 650, бригада 4",
+    "manufacturer": "Claas",
+    "commissionedOn": "2021-03-14",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-068"
+  },
+  {
+    "id": 69,
+    "title": "Massey Ferguson 6713, бригада 4",
+    "manufacturer": "Massey Ferguson",
+    "commissionedOn": "2022-03-15",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-069"
+  },
+  {
+    "id": 70,
+    "title": "Fendt 724 Vario, бригада 4",
+    "manufacturer": "Fendt",
+    "commissionedOn": "2023-03-16",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-070"
+  },
+  {
+    "id": 71,
+    "title": "Deutz-Fahr 7250, бригада 4",
+    "manufacturer": "Deutz-Fahr",
+    "commissionedOn": "2024-03-17",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-071"
+  },
+  {
+    "id": 72,
+    "title": "Valtra T174, бригада 4",
+    "manufacturer": "Valtra",
+    "commissionedOn": "2025-03-18",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-072"
+  },
+  {
+    "id": 73,
+    "title": "John Deere S770, бригада 4",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2018-03-19",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-073"
+  },
+  {
+    "id": 74,
+    "title": "Claas Lexion 670, бригада 4",
+    "manufacturer": "Claas",
+    "commissionedOn": "2019-03-20",
+    "conditionRating": 4,
+    "category": "Combine",
+    "inventoryNumber": "AG-074"
+  },
+  {
+    "id": 75,
+    "title": "Case IH Axial-Flow 7250, бригада 4",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2020-03-21",
+    "conditionRating": 5,
+    "category": "Combine",
+    "inventoryNumber": "AG-075"
+  },
+  {
+    "id": 76,
+    "title": "New Holland CX8.80, бригада 4",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2021-03-22",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-076"
+  },
+  {
+    "id": 77,
+    "title": "John Deere R4045, бригада 4",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2022-03-23",
+    "conditionRating": 4,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-077"
+  },
+  {
+    "id": 78,
+    "title": "Amazone Pantera 4503, бригада 4",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2023-03-24",
+    "conditionRating": 5,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-078"
+  },
+  {
+    "id": 79,
+    "title": "Horsch Leeb PT 280, бригада 4",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2024-03-25",
+    "conditionRating": 3,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-079"
+  },
+  {
+    "id": 80,
+    "title": "Horsch Pronto 6 DC, бригада 4",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2025-03-26",
+    "conditionRating": 4,
+    "category": "Seeder",
+    "inventoryNumber": "AG-080"
+  },
+  {
+    "id": 81,
+    "title": "Amazone Cirrus 6003, бригада 4",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2018-03-27",
+    "conditionRating": 5,
+    "category": "Seeder",
+    "inventoryNumber": "AG-081"
+  },
+  {
+    "id": 82,
+    "title": "Vaderstad Rapid A 600S, бригада 4",
+    "manufacturer": "Vaderstad",
+    "commissionedOn": "2019-03-01",
+    "conditionRating": 3,
+    "category": "Seeder",
+    "inventoryNumber": "AG-082"
+  },
+  {
+    "id": 83,
+    "title": "JCB 541-70, бригада 4",
+    "manufacturer": "JCB",
+    "commissionedOn": "2020-03-02",
+    "conditionRating": 4,
+    "category": "Loader",
+    "inventoryNumber": "AG-083"
+  },
+  {
+    "id": 84,
+    "title": "Manitou MLT 737, бригада 4",
+    "manufacturer": "Manitou",
+    "commissionedOn": "2021-03-03",
+    "conditionRating": 5,
+    "category": "Loader",
+    "inventoryNumber": "AG-084"
+  },
+  {
+    "id": 85,
+    "title": "John Deere 6130M, бригада 5",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2022-03-04",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-085"
+  },
+  {
+    "id": 86,
+    "title": "John Deere 6155M, бригада 5",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2023-03-05",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-086"
+  },
+  {
+    "id": 87,
+    "title": "Case IH Puma 185, бригада 5",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2024-03-06",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-087"
+  },
+  {
+    "id": 88,
+    "title": "New Holland T7.210, бригада 5",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2025-03-07",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-088"
+  },
+  {
+    "id": 89,
+    "title": "Claas Arion 650, бригада 5",
+    "manufacturer": "Claas",
+    "commissionedOn": "2018-03-08",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-089"
+  },
+  {
+    "id": 90,
+    "title": "Massey Ferguson 6713, бригада 5",
+    "manufacturer": "Massey Ferguson",
+    "commissionedOn": "2019-03-09",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-090"
+  },
+  {
+    "id": 91,
+    "title": "Fendt 724 Vario, бригада 5",
+    "manufacturer": "Fendt",
+    "commissionedOn": "2020-03-10",
+    "conditionRating": 3,
+    "category": "Tractor",
+    "inventoryNumber": "AG-091"
+  },
+  {
+    "id": 92,
+    "title": "Deutz-Fahr 7250, бригада 5",
+    "manufacturer": "Deutz-Fahr",
+    "commissionedOn": "2021-03-11",
+    "conditionRating": 4,
+    "category": "Tractor",
+    "inventoryNumber": "AG-092"
+  },
+  {
+    "id": 93,
+    "title": "Valtra T174, бригада 5",
+    "manufacturer": "Valtra",
+    "commissionedOn": "2022-03-12",
+    "conditionRating": 5,
+    "category": "Tractor",
+    "inventoryNumber": "AG-093"
+  },
+  {
+    "id": 94,
+    "title": "John Deere S770, бригада 5",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2023-03-13",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-094"
+  },
+  {
+    "id": 95,
+    "title": "Claas Lexion 670, бригада 5",
+    "manufacturer": "Claas",
+    "commissionedOn": "2024-03-14",
+    "conditionRating": 4,
+    "category": "Combine",
+    "inventoryNumber": "AG-095"
+  },
+  {
+    "id": 96,
+    "title": "Case IH Axial-Flow 7250, бригада 5",
+    "manufacturer": "Case IH",
+    "commissionedOn": "2025-03-15",
+    "conditionRating": 5,
+    "category": "Combine",
+    "inventoryNumber": "AG-096"
+  },
+  {
+    "id": 97,
+    "title": "New Holland CX8.80, бригада 5",
+    "manufacturer": "New Holland",
+    "commissionedOn": "2018-03-16",
+    "conditionRating": 3,
+    "category": "Combine",
+    "inventoryNumber": "AG-097"
+  },
+  {
+    "id": 98,
+    "title": "John Deere R4045, бригада 5",
+    "manufacturer": "John Deere",
+    "commissionedOn": "2019-03-17",
+    "conditionRating": 4,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-098"
+  },
+  {
+    "id": 99,
+    "title": "Amazone Pantera 4503, бригада 5",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2020-03-18",
+    "conditionRating": 5,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-099"
+  },
+  {
+    "id": 100,
+    "title": "Horsch Leeb PT 280, бригада 5",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2021-03-19",
+    "conditionRating": 3,
+    "category": "Sprayer",
+    "inventoryNumber": "AG-100"
+  },
+  {
+    "id": 101,
+    "title": "Horsch Pronto 6 DC, бригада 5",
+    "manufacturer": "Horsch",
+    "commissionedOn": "2022-03-20",
+    "conditionRating": 4,
+    "category": "Seeder",
+    "inventoryNumber": "AG-101"
+  },
+  {
+    "id": 102,
+    "title": "Amazone Cirrus 6003, бригада 5",
+    "manufacturer": "Amazone",
+    "commissionedOn": "2023-03-21",
+    "conditionRating": 5,
+    "category": "Seeder",
+    "inventoryNumber": "AG-102"
+  },
+  {
+    "id": 103,
+    "title": "Vaderstad Rapid A 600S, бригада 5",
+    "manufacturer": "Vaderstad",
+    "commissionedOn": "2024-03-22",
+    "conditionRating": 3,
+    "category": "Seeder",
+    "inventoryNumber": "AG-103"
+  },
+  {
+    "id": 104,
+    "title": "JCB 541-70, бригада 5",
+    "manufacturer": "JCB",
+    "commissionedOn": "2025-03-23",
+    "conditionRating": 4,
+    "category": "Loader",
+    "inventoryNumber": "AG-104"
+  },
+  {
+    "id": 105,
+    "title": "Manitou MLT 737, бригада 5",
+    "manufacturer": "Manitou",
+    "commissionedOn": "2018-03-24",
+    "conditionRating": 5,
+    "category": "Loader",
+    "inventoryNumber": "AG-105"
+  }
+]
